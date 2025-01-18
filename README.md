@@ -36,7 +36,7 @@ Ce tableau de bord interactif visualise la relation entre le changement climatiq
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/g4pip/Projet_interpromo.git
+git clone https://github.com/g4pip/Projet_Interpromo.git
 cd tableau-bord-climat
 ```
 3. Installer les packages requis :
@@ -60,7 +60,7 @@ Assurez-vous d'avoir les fichiers CSV suivants dans votre répertoire de projet 
 
 1. Naviguer vers le répertoire du projet :
 ```bash
-cd Projet_interpromo
+cd Projet_Interpromo
 ```
 
 2. Lancer l'application Streamlit :
