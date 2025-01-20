@@ -1,4 +1,9 @@
 # Projet Interpromo
+Ce projet a été réalisé dans le cadre d’un travail collaboratif au sein du groupe g4pip.
+
+Contributeur principal :
+ • Ousmane Tall (membre de g4pip)
+ 
 Ce projet exploite des données issues de **Open Data University** pour analyser et visualiser divers aspects liés aux ressources et activités universitaires. 
 L'objectif est de fournir des insights exploitables à partir des données publiques disponibles.
 
